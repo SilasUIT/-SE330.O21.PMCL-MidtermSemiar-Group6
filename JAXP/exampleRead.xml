@@ -1,0 +1,13 @@
+<class id = "Ngôn ngữ lập trình Java - SE330.O21.PMCL">
+    <lecturer>
+        <name>Nguyễn Duy Khánh</name>
+    </lecturer>
+    <student group="6">
+        <name>Phan Quốc Tuấn</name>
+        <id>21521637</id>
+    </student>
+    <student group="6">
+        <name>Trần Tiến Đạt</name>
+        <id>21521951</id>
+    </student>
+</class>
